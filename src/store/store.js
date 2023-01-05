@@ -2,7 +2,7 @@ import {createStore , combineReducers } from 'redux'
 
 const INITIAL_STATE = [
     {
-        name: "ferrari",
+        name: "BMW",
         url: "https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 ]
