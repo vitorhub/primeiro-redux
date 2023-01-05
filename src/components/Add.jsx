@@ -10,7 +10,6 @@ export default function Add(){
     const dispatch = useDispatch()
 
     function onSubmit(e){
-        console.log("bundinha")
         e.preventDefault()
         dispatch(addCar(estado))
     }
