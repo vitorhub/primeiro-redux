@@ -6,6 +6,7 @@ function App() {
   return (
     <Provider store={store}>
       <List/>
+      <h2> branch01 </h2>
     </Provider>
   );
 }
